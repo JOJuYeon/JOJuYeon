@@ -1,0 +1,133 @@
+no.,substract,catalyst,mol%_catalyst,catalyst 2,mol%_catalyst 2,solvent,M_solvent,solvent 2,M_solvent 2,additives,enviroment,temperature,time,yield,endo,exo,ratio
+1,trans(E),Cr1,10,TEMPO,10,HFIP,0.1,,,,air,rt,3,78,1,1.1,0.476190476
+2,trans(E),Cr1,10,TEMPO,10,HFIP,0.1,,,,O2 balllon,rt,3,80,1,1.1,0.476190476
+3,trans(E),Cr1,10,,,HFIP,0.1,,,,O2 balllon,rt,3,32,2,1,0.666666667
+4,trans(E),,,TEMPO,10,HFIP,0.1,,,,O2 balllon,rt,72,42,1.8,1,0.642857143
+5,trans(E),,,,,HFIP,0.1,,,,O2 balllon,rt,120,28,1,1,0.5
+6,trans(E),Cr1,10,TEMPO,10,DMF,0.1,,,,air,rt,12,23,24,1,0.96
+7,trans(E),Cr1,10,TEMPO,10,THF,0.1,,,,air,rt,12,48,14,1,0.933333333
+8,trans(E),Cr1,10,TEMPO,10,MeCN,0.1,,,,air,rt,12,75,5.4,1,0.84375
+9,trans(E),Cr1,10,TEMPO,10,"1,2-DCE",0.1,,,,air,rt,12,49,1.5,1,0.6
+10,trans(E),Cr1,10,TEMPO,10,toluene,0.1,,,,air,rt,12,69,8.7,1,0.896907216
+11,trans(E),Cr1,10,TEMPO,10,trifluoroethanol,0.1,,,,air,rt,12,70,1.7,1,0.62962963
+12,trans(E),Cr1,10,TEMPO,10,hexafluorobenzene,0.1,,,,air,rt,12,74,22,1,0.956521739
+13,trans(E),Cr1,10,TEMPO,10,acetone,0.1,,,,air,rt,12,31,2.3,1,0.696969697
+14,trans(E),Cr1,10,TEMPO,10,acetic acid,0.1,,,,air,rt,12,0,,,
+15,trans(E),Cr1,10,TEMPO,10,"1,4-dioxane",0.1,,,,air,rt,12,50,10,1,0.909090909
+16,trans(E),Cr1,10,TEMPO,10,CPME,0.1,,,,air,rt,12,30,7.3,1,0.879518072
+17,trans(E),Cr1,10,TEMPO,10,MeOH,0.1,,,,air,rt,12,16,7.2,1,0.87804878
+18,trans(E),Cr1,10,TEMPO,10,THP,0.1,,,,air,rt,12,41,9.8,1,0.907407407
+19,trans(E),Cr1,10,TEMPO,10,DME,0.1,,,,air,rt,12,52,8.8,1,0.897959184
+20,trans(E),Cr1,10,TEMPO,10,DMA,0.1,,,,air,rt,12,11,6.9,1,0.873417722
+21,trans(E),Cr1,10,TEMPO,10,DMSO,0.1,,,,air,rt,12,0,,,
+22,trans(E),Cr1,10,TEMPO,10,DMPU,0.1,,,,air,rt,12,23,7.8,1,0.886363636
+23,trans(E),Cr1,10,TEMPO,10,NMP,0.1,,,,air,rt,12,0,,,
+24,trans(E),Cr1,10,TEMPO,10,HFIP,0.1,,,La(OTf)3,air,rt,3,70,1,1.4,0.416666667
+25,trans(E),Cr1,10,TEMPO,10,HFIP,0.1,,,Ce(OTf)3,air,rt,2,75,1,1.3,0.434782609
+26,trans(E),Cr1,10,TEMPO,10,HFIP,0.1,,,Pr(OTf)3,air,rt,2,79,1,1.9,0.344827586
+27,trans(E),Cr1,10,TEMPO,10,HFIP,0.1,,,Nd(OTf)3,air,rt,2,65,1,2,0.333333333
+28,trans(E),Cr1,10,TEMPO,10,HFIP,0.1,,,Sm(OTf)3,air,rt,2,45,1,1.9,0.344827586
+29,trans(E),Cr1,10,TEMPO,10,HFIP,0.1,,,Eu(OTf)3,air,rt,2,69,1,1.7,0.37037037
+30,trans(E),Cr1,10,TEMPO,10,HFIP,0.1,,,Gd(OTf)3,air,rt,2,60,1,2.4,0.294117647
+31,trans(E),Cr1,10,TEMPO,10,HFIP,0.1,,,Er(OTf)3,air,rt,2,70,1,2,0.333333333
+32,trans(E),Cr1,10,TEMPO,10,HFIP,0.1,,,Yb(OTf)3*,air,rt,2,72,1,2,0.333333333
+33,trans(E),Cr1,10,TEMPO,10,HFIP,0.1,,,Tb(OTf)3,air,rt,2,63,1,2,0.333333333
+34,trans(E),Cr1,10,TEMPO,10,cyclohexane,0.1,,,,air,rt,12,80,8.3,1,0.892473118
+35,trans(E),Cr1,10,TEMPO,10,AcOEt,0.1,,,,air,rt,12,69,5.5,1,0.846153846
+36,trans(E),Cr1,10,TEMPO,10,CH3NO2,0.1,,,,air,rt,4,69,1,1.9,0.344827586
+37,trans(E),Cr1,10,TEMPO,10,2-nitropropane,0.1,,,,air,rt,6.5,65,1.6,1,0.615384615
+38,trans(E),Cr1,10,TEMPO,10,CH3NO2,0.1,,,,air,rt,4,69,1,1.9,0.344827586
+39,trans(E),Cr4,10,TEMPO,10,CH3NO2,0.1,,,,air,rt,6,80,1,3.7,0.212765957
+40,trans(E),Cr2,10,TEMPO,10,CH3NO2,0.1,,,,air,rt,18,66,1,7.7,0.114942529
+41,trans(E),Cr2,10,TEMPO,10,HFIP,0.1,,,,air,rt,1,98,1,8,0.111111111
+42,trans(E),Cr2,10,TEMPO,10,HFIP,2.0ml,,,,air,rt,2,95,1,3.7,0.212765957
+43,trans(E),Cr2,10,TEMPO,10,HFIP,0.5ml,,,,air,rt,2,92,1,5.9,0.144927536
+44,trans(E),Cr2,10,TEMPO,10,HFIP,1.0ml,CCl4,1.0ml,,air,rt,1,92,1,3.2,0.238095238
+45,trans(E),Cr2,10,TEMPO,10,HFIP,0.5ml,CCl4,0.5ml,,air,rt,3.5,96,1,2.8,0.263157895
+46,trans(E),Cr2,10,TEMPO,20,HFIP,0.1,,,,air,rt,2,98,1,4.6,0.178571429
+47,trans(E),Cr2,5,TEMPO,5,HFIP,0.1,,,,air,rt,2,80,1,5,0.166666667
+48,trans(E),Cr2,10,DTBMP,10,HFIP,0.1,,,,air,rt,2,92,1,3.8,0.208333333
+49,trans(E),Cr2,10,CsCO3,10,HFIP,0.1,,,,air,rt,2,92,1,3.4,0.227272727
+50,trans(E),Cr2,10,DIPEA,10,HFIP,0.1,,,,air,rt,2,97,1,1.9,0.344827586
+51,trans(E),Cr2,10,pyridine,10,HFIP,0.1,,,,air,rt,2,82,1,1.5,0.4
+52,trans(E),Cr2,10,K2CO3,10,HFIP,0.1,,,,air,rt,1.5,91,1,3.7,0.212765957
+53,trans(E),Cr2,10,protone sponge,10,HFIP,0.1,,,,air,rt,1.5,77,1,2.8,0.263157895
+54,trans(E),Cr1,10,TEMPO,10,THF,0.1,,,,air,rt,72,74,14,1,0.933333333
+55,trans(E),Cr2,10,TEMPO,10,HFIP,0.1,,,,air,rt,1,84,1,8,0.111111111
+56,trans(E),Cr3,10,TEMPO,10,HFIP,0.1,,,,air,50,1,83,1,4.5,0.181818182
+57,trans(E),Cr3,10,TEMPO,10,HFIP,0.1,,,,air,30,1,81,1,6.2,0.138888889
+58,trans(E),Cr3,10,TEMPO,10,HFIP,0.1,,,,air,10,3,82,1,3.8,0.208333333
+59,trans(E),Cr3,10,TEMPO,10,HFIP,0.1,,,,air,0,9,85,1,5.3,0.158730159
+60,trans(E),Cr2,10,TEMPO,10,HFIP,0.1,,,,air,flame dried,1,84,1,8,0.111111111
+61,trans(E),Cr2,10,TEMPO,10,dist HFIP,0.1,,,3A,air,flame dried,0.666666667,66,1,21,0.045454545
+62,trans(E),Cr2,10,TEMPO,10,dist HFIP,0.1,,,4A,air,flame dried,0.666666667,90,1,20,0.047619048
+63,trans(E),Cr2,10,TEMPO,10,dist HFIP,0.1,,,5A,air,flame dried,0.5,91,1,29,0.033333333
+64,trans(E),Cr2,10,TEMPO,10,dist HFIP,0.1,,,13X,air,flame dried,2,78,1,5.6,0.151515152
+65,trans(E),Cr2,10,TEMPO,10,dist HFIP,0.1,,,4A,air,flame dried,0.666666667,89,1,10,0.090909091
+66,trans(E),Cr2,10,TEMPO,10,dist HFIP,0.1,,,,air,flame dried,1,93,1,8.7,0.103092784
+67,trans(E),Cr1,10,TEMPO,10,THF,0.1,,,,air,rt,72,74,15,1,0.9375
+68,trans(E),Cr1,10,TEMPO,10,THF,0.1,,,,air,50,60,90,15,1,0.9375
+69,trans(E),Cr1,10,DTBMP,10,THF,0.1,,,,air,rt,72,78,10,1,0.909090909
+70,trans(E),Cr1,10,4-Amino-TEMPO,10,THF,0.1,,,,air,rt,48,72,13,1,0.928571429
+71,trans(E),Cr1,10,4-Oxo-TEMPO,10,THF,0.1,,,,air,rt,72,81,13,1,0.928571429
+72,trans(E),Cr1,10,AZADO,10,THF,0.1,,,,air,rt,21,53,15,1,0.9375
+73,trans(E),Cr1,10,nor-AZADO,10,THF,0.1,,,,air,rt,21,72,13,1,0.928571429
+74,trans(E),Cr1,10,1-Me-AZADO,10,THF,0.1,,,,air,rt,35,77,13,1,0.928571429
+75,trans(E),Cr1,10,4-Cl-AZADO,10,THF,0.1,,,,air,rt,48,78,17,1,0.944444444
+76,trans(E),Cr1,10,5-F-AZADO,10,THF,0.1,,,,air,rt,24,68,13,1,0.928571429
+77,trans(E),Cr1,10,DMN-AZADO,10,THF,0.1,,,,air,rt,48,76,15,1,0.9375
+78,trans(E),Cr1,10,ABNO,10,THF,0.1,,,,air,rt,18,70,10,1,0.909090909
+79,trans(E),Cr1,10,ABOOL,10,THF,0.1,,,,air,rt,30,66,14,1,0.933333333
+80,trans(E),Cr1,10,nor-AZADO,10,THF,0.1,,,,air,rt,21,71,13,1,0.928571429
+81,trans(E),Cr1,10,nor-AZADO,10,THF,0.1,,,,air,30,21,72,13,1,0.928571429
+82,trans(E),Cr1,10,nor-AZADO,10,THF,0.1,,,,air,50,34,89,14,1,0.933333333
+83,trans(E),Cr1,10,nor-AZADO,10,THF,0.1,,,5A,air,rt,27,61,14,1,0.933333333
+84,trans(E),Cr2,10,TEMPO,10,HFIP,0.1,,,KOAc,air,rt,3,80,1,5.4,0.15625
+85,trans(E),Cr2,10,TEMPO,10,HFIP,0.1,,,KCl,air,rt,1.5,81,1,10,0.090909091
+86,trans(E),Cr2,10,TEMPO,10,HFIP,0.1,,,NaCl,air,rt,1.5,82,1,6.4,0.135135135
+87,trans(E),Cr2,10,TEMPO,10,HFIP,0.1,,,CaCl2,air,rt,1.5,81,1,5.2,0.161290323
+88,trans(E),Cr4,10,TEMPO,10,HFIP,0.1,,,BF4-,air,rt,1,90,1,2.4,0.294117647
+89,trans(E),Cr4,10,TEMPO,10,HFIP,0.1,,,OTf-,air,rt,1,90,1,3.5,0.222222222
+90,trans(E),Cr4,10,TEMPO,10,HFIP,0.1,,,NTf2-,air,rt,1,86,1,2.3,0.303030303
+91,trans(E),Cr4,10,TEMPO,10,HFIP,0.1,,,SbF6-,air,rt,1,90,1,3.5,0.222222222
+92,trans(E),Cr4,10,TEMPO,10,HFIP,0.1,,,PF6-,air,rt,1,89,1,2.1,0.322580645
+93,trans(E),Cr2,10,TEMPO,10,HFIP,0.1,,,BF4-,air,rt,1.5,86,1,4.5,0.181818182
+94,trans(E),Cr2,10,TEMPO,10,HFIP,0.1,,,OTf-,air,rt,1,80,1,8,0.111111111
+95,trans(E),Cr2,10,TEMPO,10,HFIP,0.1,,,NTf2-,air,rt,1.5,84,1,13,0.071428571
+96,trans(E),Cr2,10,TEMPO,10,HFIP,0.1,,,SbF6-,air,rt,1.5,94,1,8.2,0.108695652
+97,trans(E),Cr2,10,TEMPO,10,HFIP,0.1,,,PF6-,air,rt,1.5,95,1,5.4,0.15625
+98,trans(E),Cr2,10,TEMPO,10,HFIP,0.1,,,BARF-,air,rt,16,59,1,3.4,0.227272727
+99,trans(E),Cr4,10,TEMPO,10,HFIP,0.1,,,,air,rt,1.5,90,1,2.4,0.294117647
+100,trans(E),Cr5,10,TEMPO,10,THF,0.1,,,,air,rt,72,55,10,1,0.909090909
+101,trans(E),Cr6,10,TEMPO,10,HFIP,0.1,,,,air,rt,4,70,1,1.1,0.476190476
+102,trans(E),Cr7,10,TEMPO,10,THF,0.1,,,,air,rt,72,65,11,1,0.916666667
+103,trans(E),Cr8,10,TEMPO,10,THF,0.1,,,,air,rt,72,68,15,1,0.9375
+104,trans(E),Cr9,10,TEMPO,10,THF,0.1,,,,air,rt,72,71,8.9,1,0.898989899
+105,trans(E),Cr4,10,TEMPO,10,THF,0.1,,,,air,rt,72,67,15,1,0.9375
+106,trans(E),Cr11,10,TEMPO,10,HFIP,0.1,,,,air,rt,3,82,1.4,1,0.583333333
+107,trans(E),Cr12,10,TEMPO,10,HFIP,0.1,,,,air,rt,1,84,1,13,0.071428571
+108,trans(E),Cr13,10,TEMPO,10,THF,0.1,,,,air,rt,72,68,15,1,0.9375
+109,trans(E),Cr14,10,TEMPO,10,HFIP,0.1,,,,air,rt,24,68,1,2.4,0.294117647
+110,trans(E),Cr15,10,TEMPO,10,HFIP,0.1,,,,air,rt,5,53,1.5,1,0.6
+111,trans(E),Co1,10,,,CH2Cl2,0.1,,,,O2 balllon,rt,3,80,8,1,0.888888889
+112,trans(E),Co2,10,,,CH2Cl2,0.1,,,,air,rt,1,78,10,1,0.909090909
+113,trans(E),Co2,10,,,HFIP,0.1,,,,air,rt,0.5,85,1.3,1,0.565217391
+114,trans(E),Co2,10,TEMPO,10,HFIP,0.1,,,,air,rt,0.5,86,1,1.2,0.454545455
+115,trans(E),Co2,10,TEMPO,10,HFIP,0.1,,,5A,air,rt,0.5,80,2.3,1,0.696969697
+116,trans(E),Cr3,10,TEMPO,10,HFIP,0.1,,,,air,rt,3,83,1.8,1,0.642857143
+117,trans(E),Cr9,10,TEMPO,10,HFIP,0.1,,,,air,rt,3,90,1.3,1,0.565217391
+118,trans(E),Cr6,10,TEMPO,10,THF,0.1,,,,air,rt,72,81,14,1,0.933333333
+119,trans(E),Cr3,10,TEMPO,10,THF,0.1,,,,air,rt,72,78,11,1,0.916666667
+120,trans(E),Cr2,10,TEMPO,10,THF,0.1,,,,air,rt,72,78,10,1,0.909090909
+,,,,,,,,,,,,,,,,,
+121,R_4OMe,Cr2,10,TEMPO,10,dist HFIP,0.1,,,5A,air,rt,0.5,82,1,11,
+,R_6OMe,Cr2,10,TEMPO,10,dist HFIP,0.1,,,5A,air,rt,1,80,1,20,
+,R_origin,Cr2,10,TEMPO,10,dist HFIP,0.1,,,5A,air,rt,1,28,1,10,
+,R_4Br,Cr2,10,TEMPO,10,HFIP,0.1,,,5A,air,rt,,0,,,
+,R'Ph,Cr2,10,TEMPO,10,dist HFIP,0.1,,,5A,,,1,62,0,1,
+,R_4Me,Cr2,10,TEMPO,10,dist HFIP,0.1,,,5A,,,0.833333333,73,0,1,
+,R_4SMe,Cr2,10,TEMPO,10,dist HFIP,0.1,,,5A,,,1,72,0,1,
+,R_4OMe6Cl,Cr2,10,TEMPO,10,dist HFIP,0.1,,,5A,,,1,78,0,1,
+,R_4NHCbz,Cr2,10,TEMPO,10,dist HFIP,0.1,,,5A,,,72,62,0,1,
+,R'-ME,Cr2,10,TEMPO,10,dist HFIP,0.1,,,5A,,,0.25,0,,,
+,R_5OMe,Cr2,10,TEMPO,10,dist HFIP,0.1,,,5A,,,24,0,,,
